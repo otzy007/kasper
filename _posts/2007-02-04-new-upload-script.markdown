@@ -8,4 +8,6 @@ joomla_url: !binary |-
 date: 2007-02-04 00:00:00.000000000 +02:00
 tags: [PHP, upload, script]
 ---
-<p>Today I've finished the work at the upload script for mobile phones and pcs, and not only,<br />I've added  an upload script compatible with moded Opera  Mini versions and with official opera mini v 3.0 <br />The site is avaible <a href="http://oprod.freepage.ro/upload/">here</a></p>
+Today I've finished the work at the upload script for mobile phones and pcs, and not only. I've added  an upload script compatible with moded Opera  Mini versions and with official opera mini v 3.0
+
+The site is avaible <a href="http://oprod.freepage.ro/upload/">here</a>

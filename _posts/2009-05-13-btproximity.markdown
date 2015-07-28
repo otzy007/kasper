@@ -8,8 +8,10 @@ joomla_url: !binary |-
 date: 2009-05-13 22:00:00.000000000 +03:00
 tags: [btproximity, KDE, Bluetooth, Linux, Lock, Unlock, ScreenSaver]
 ---
-<p>I modified a script to work also in KDE 4. The script uses bluetooth to search for the phone, if the phone is too far the computer will be locked. When you come back to the computer, it will be unlocked. Remeber to edit your phones mac address in the script and also to pair your phone with the computer. You can download the script from <a href="http://oprod.net/index.php/downloads/category/1-btproximity">here</a>. Or copy it from here:</p>
-<pre><code>#!/bin/bash
+I modified a script to work also in KDE 4. The script uses bluetooth to search for the phone, if the phone is too far the computer will be locked. When you come back to the computer, it will be unlocked. Remeber to edit your phones mac address in the script and also to pair your phone with the computer. You can download the script from <a href="http://oprod.net/index.php/downloads/category/1-btproximity">here</a>. Or copy it from here:
+
+```
+#!/bin/bash
 #set -o verbose sh -v
 # Copied from Steven on http://gentoo-wiki.com/Talk:TIP_Bluetooth_Proximity_Monitor
 
@@ -102,10 +104,11 @@ while /bin/true; do
             fi
         fi
         msg "state = $state, RSSI = $rssi"
-    
+
     else
         $FAR_CMD > /dev/null 2>&1
     fi
 
     sleep $CHECK_INTERVAL
-done </code></pre>
+done
+```

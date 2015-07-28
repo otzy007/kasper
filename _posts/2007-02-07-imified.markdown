@@ -1,0 +1,11 @@
+---
+layout: post
+title: !binary |-
+  SU1pZmllZA==
+joomla_id: 26
+joomla_url: !binary |-
+  aW1pZmllZA==
+date: 2007-02-07 00:00:00.000000000 +02:00
+tags: [imified, bot.im]
+---
+<p>Yesterday I've found an IM buddy which is very usefull. I can post with it on blogger, I have reminders, todos, notes. I can use it on gtalk: imified@gtalk.com, Yahoo!Messenger: IMified, MSN: imified@imified.com . To register you just send a message to it. For editing your settings you send 4(My account) and you recieve some links. cool. You can find more informations at: <a href="http://imified.com">imified.com</a></p>

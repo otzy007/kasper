@@ -1,0 +1,10 @@
+---
+layout: post
+title: !binary |-
+  RG93bmxvYWRzIHBhZ2U=
+joomla_id: 20
+joomla_url: !binary |-
+  ZG93bi1wYWdl
+date: 2009-10-03 09:22:31.000000000 +03:00
+---
+<p>Now <a href="http://oprod.net">oprod.net</a> has a <a href="downloads">downloads page</a> thanks to <a href="http://www.phoca.cz/phocadownload" target="_blank">Phoca Download</a> plugin for <a href="http://joomla.org" target="_blank">Joomla</a>. Here you will find my actual projects and also my older ones.</p>

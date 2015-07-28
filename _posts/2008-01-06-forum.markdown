@@ -1,0 +1,13 @@
+---
+layout: post
+title: !binary |-
+  Rm9ydW0=
+joomla_id: 43
+joomla_url: !binary |-
+  Zm9ydW0=
+date: 2008-01-06 00:00:00.000000000 +02:00
+---
+From this day <a href="http://oprod.co.nr/">http://oprod.co.nr</a> has a forum.
+The forum is avaible by the site menu or at:
+<a href="http://oprod.co.nr/forum/">http://oprod.co.nr/forum/</a>
+or at <a href="http://oprod.co.nr/phpBB3/">http://oprod.co.nr/phpBB3/</a>

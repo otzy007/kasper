@@ -1,0 +1,11 @@
+---
+layout: post
+title: !binary |-
+  a2FwaWxhbmQ=
+joomla_id: 35
+joomla_url: !binary |-
+  a2FwaWxhbmQ=
+date: 2007-09-13 22:00:00.000000000 +03:00
+tags: [game, kapiland, business, simulation]
+---
+<p>Today i've found another business simulation game. It is called<a href="http://www.kapilands.com/main.php4?werber=106104"> Kapiland.</a> You can find also  tools for this game at<a href="http://kapitools.de"> http://kapitools.de</a></p>

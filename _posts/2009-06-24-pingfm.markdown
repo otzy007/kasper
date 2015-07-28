@@ -1,0 +1,10 @@
+---
+layout: post
+title: !binary |-
+  cGluZy5mbQ==
+joomla_id: 66
+joomla_url: !binary |-
+  cGluZ2Zt
+date: 2009-06-24 22:00:00.000000000 +03:00
+---
+ping.fm test

@@ -1,0 +1,13 @@
+---
+layout: post
+title: !binary |-
+  REpDYWVzcw==
+joomla_id: 36
+joomla_url: !binary |-
+  ZGpjYWVzcw==
+date: 2007-09-29 22:00:00.000000000 +03:00
+---
+<p>Here are some songs of a friend of mine.</p>
+<p><span style="color: #ff0000;"><span style="font-weight: bold;">Direct donwload: </span></span> <a href="http://www.sharemobile.ro/dlfile.php?id=33034">DJCaess_-_only_u</a> <a href="http://www.sharemobile.ro/file.php?id=33033">DJCaess_-_love_is_all</a> <a href="http://www.sharemobile.ro/file.php?id=33032">DJCaess_-_im_runing_to_you</a> <a href="http://www.sharemobile.ro/file.php?id=33031">DJCaess_-_feel_u</a></p>
+<p><span style="font-weight: bold; color: #ff0000;">Torrent: <a href="http://thepiratebay.org/tor/3824596/DJCaess"><span><span>torrent 1</span></span></a> <a href="http://btjunkie.org/torrent/DJCaess-music/43330c52c83876d13885d3ff8d0b0191a5d6a57ff535"><span><span>torrent 2</span></span></a> </span></p>
+<p>What do you think about them?</p>

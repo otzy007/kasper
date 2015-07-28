@@ -1,0 +1,11 @@
+---
+layout: post
+title: !binary |-
+  ZHJvcC5pbw==
+joomla_id: 48
+joomla_url: !binary |-
+  ZHJvcGlv
+date: 2008-08-04 00:00:00.000000000 +03:00
+tags: [drop.io]
+---
+<p><a href="http://drop.io/">http://drop.io</a> it's a new file uploading service. You can also upload your files by email or mms, by fax or by phone, recording your voice. Cool ;)</p>

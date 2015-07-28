@@ -1,0 +1,10 @@
+---
+layout: post
+title: !binary |-
+  VW4gYmxvZw==
+joomla_id: 18
+joomla_url: !binary |-
+  YmxvZw==
+date: 2009-08-11 19:11:00.000000000 +03:00
+---
+<p>New project for me. I've started a new blog in my own language (Romanian). Hope you like it. <a href="http://unbblog.blogspot.com/" target="_blank">http://unbblog.blogspot.com/</a></p>

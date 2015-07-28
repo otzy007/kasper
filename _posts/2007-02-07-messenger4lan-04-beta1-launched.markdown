@@ -8,4 +8,4 @@ joomla_url: !binary |-
 date: 2007-02-07 00:00:00.000000000 +02:00
 tags: messenger4lan
 ---
-<p>I've launched the first beta of version 0.4. <a href="http://sourceforge.net/projects/msg4lan/">go download it</a><br />New at this version:<br />-messages archiving</p>
+I've launched the first beta of version 0.4. <a href="http://sourceforge.net/projects/msg4lan/">go download it</a><br />New at this version:<br />-messages archiving

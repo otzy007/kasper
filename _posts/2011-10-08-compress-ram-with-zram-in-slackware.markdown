@@ -11,7 +11,7 @@ tags: [Slackware, zram]
 <h4>Update: you can find the tarball for this script at: <a href="http://github.com/downloads/otzy007/enable-zRam-in-Slackware/enable-zram-noarch.tgz">http://github.com/downloads/otzy007/enable-zRam-in-Slackware/enable-zram-noarch.tgz </a></h4>
 Referring to this<a href="http://www.webupd8.org/2011/10/increased-performance-in-linux-with.html" target="_blank"> article</a> it seems that using a swap disk is slower than compressing the data in the memory.
 Enabling this under Slackware Linux it's pretty easy.
-Create the file /etc/rc.d/rc.zram and put this script into it:
+Create the file `/etc/rc.d/rc.zram` and put this script into it:
 
 ```````````````````````````````````````````````````````
 #!/bin/bash
@@ -53,9 +53,9 @@ case "$1" in
 esac
 ```````````````````````````````````````````````````````
 
-<strong>Remember to make it executable:</strong> chmod +x /etc/rc.d/rc.zram
+<strong>Remember to make it executable:</strong> `chmod +x /etc/rc.d/rc.zram`
 
-Also copy this lines to /etc/rc.d/rc.local or /etc/rc.d/rc.M
+Also copy this lines to `/etc/rc.d/rc.local` or `/etc/rc.d/rc.M`
 
 ``````````````````````````````
 # Start zram swap space

@@ -8,12 +8,10 @@ joomla_url: !binary |-
 date: 2009-12-02 18:56:15.000000000 +02:00
 tags: [status, script, bot.im]
 ---
-<p>Here's another script for a bot. You get from it various status informations by executing commands as: du, free or netstats. This project isn't finished yet so it could have some bugs. Enough talk, here's the script:</p>
+Here's another script for a bot. You get from it various status informations by executing commands as: du, free or netstats. This project isn't finished yet so it could have some bugs. Enough talk, here's the script:
 
-<p> </p>
-<p>
-<pre><code>
-&lt;?php
+```
+<?php
 ///////////////////////////////////////////////////
 //system status php script for bot.im
 //created by otzy_007(Andrei G.) http://oprod.net
@@ -31,7 +29,7 @@ $msg = strtolower($_REQUEST["msg"]);
 //break;
 //
 //where command is your command to be executed
-/////////////////////////////////////////////// 
+///////////////////////////////////////////////
 switch($msg)
 {
   case "date":
@@ -86,7 +84,7 @@ echo "Avaible commands: help, date, whoami, who,
  uname, uptime, ps, df, meminfo, procinfo, free, mounts, netstat";
 }
 function echo_line($command)
-{ 
+{
 
  exec($command, $line);
 
@@ -94,11 +92,10 @@ function echo_line($command)
  {
   echo "<br>";
   echo $line[$i];
-  
-}
 
 }
 
-?> 
-</code></pre>
-</p>
+}
+
+?>
+```

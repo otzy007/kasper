@@ -8,4 +8,4 @@ joomla_url: !binary |-
 date: 2009-11-24 19:52:38.000000000 +02:00
 tags: [Tumblr]
 ---
-<p>Today I've created my Tumblr account. You can find me at: <a href="http://otzy.tumblr.com/" target="_blank">http://otzy.tumblr.com</a></p>
+Today I've created my Tumblr account. You can find me at: <a href="http://otzy.tumblr.com/" target="_blank">http://otzy.tumblr.com</a>

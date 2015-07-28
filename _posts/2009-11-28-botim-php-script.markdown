@@ -8,10 +8,13 @@ joomla_url: !binary |-
 date: 2009-11-28 08:31:24.000000000 +02:00
 tags: [bot.im, shell]
 ---
-<p>After 6 months of no php coding at all, yesterday I've made a little script for a bot for twitter, jabber, yahoo messenger and other services using <a href="http://bot.im" target="_blank">bot.im</a>.The script is pretty simple, responds to some commands and also uses the exec() php command.</p>
-<p>And here's the script:</p>
-<pre><code>
-&lt;?php
+After 6 months of no php coding at all, yesterday I've made a little script for a bot for twitter, jabber, yahoo messenger and other services using [bot.im](http://bot.im).The script is pretty simple, responds to some commands and also uses the `exec()` php command.
+
+
+And here's the script:
+
+```
+<?php
 
 //simple php script for bot.im
 //created by otzy_007(Andrei G.) http://oprod.net
@@ -25,7 +28,7 @@ $part = explode("(", $msg);
 //if there's an exec command execute it
 //example: exec(whoami), exec(ps), exec(uptime)
 if($part[0]=='exec'){
-$part[1]=rtrim($part[1], ")"); 
+$part[1]=rtrim($part[1], ")");
 echo exec($part[1]);
 }
 //else execute the other commands
@@ -54,6 +57,7 @@ function help(){
 echo "Avaible commands: help, date, hello, exec(\"command\") without quotes";
 }
 
-?></code></pre>
-</br>
-Download: <a href="http://oprod.net/index.php/downloads/category/8-php?download=17%3Abot.im-script">http://oprod.net/index.php/downloads/category/8-php?download=17%3Abot.im-script</a>
+?>
+```
+
+Download: [http://oprod.net/index.php/downloads/category/8-php?download=17%3Abot.im-script](http://oprod.net/index.php/downloads/category/8-php?download=17%3Abot.im-script)

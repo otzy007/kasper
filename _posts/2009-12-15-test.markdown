@@ -7,10 +7,14 @@ joomla_url: !binary |-
   dGVzdA==
 date: 2009-12-15 09:29:07.000000000 +02:00
 ---
-<div class="caption">
-<p>A venit zapada!!!! Uraaa!</p>
-<p>Asa ca am pus si pe <a href="http://otzy.tumblr.com/" target="_blank">http://otzy.tumblr.com</a> putina zapada.</p>
-<p>Am folosit scriptul snow.js pe care il gasiti aici: <a href="http://www.peters1.dk/webtools/javascript/sne.php?sprog=en" target="_blank">http://www.peters1.dk/webtools/javascript/sne.php?sprog=en</a></p>
-<p>Sau puteti doar sa adaugati codul asta imediat dupa tagul <strong>&lt;body&gt;</strong></p>
-<pre><code><script type="text/javascript" src="http://oprod.net/scripts/snow.js"></script></code></pre>
-</div>
+A venit zapada!!!! Uraaa!
+
+Asa ca am pus si pe <a href="http://otzy.tumblr.com/" target="_blank">http://otzy.tumblr.com</a> putina zapada.
+
+Am folosit scriptul snow.js pe care il gasiti aici: <a href="http://www.peters1.dk/webtools/javascript/sne.php?sprog=en" target="_blank">http://www.peters1.dk/webtools/javascript/sne.php?sprog=en</a>
+Sau puteti doar sa adaugati codul asta imediat dupa tagul <strong>&lt;body&gt;</strong>
+
+```
+<script type="text/javascript" src="http://oprod.net/scripts/snow.js"></script>
+
+```

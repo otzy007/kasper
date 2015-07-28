@@ -8,4 +8,4 @@ joomla_url: !binary |-
 date: 2009-02-24 22:00:00.000000000 +02:00
 tags: [oprod.net, Joomla]
 ---
-<p>Now <a href="http://oprod.net/">oprod.net</a> has a new design. I've used <a href="http://joomla.org/">Joomla</a> for the new website. It's a great CMS, easy to use and powerful.</p>
+Now <a href="http://oprod.net/">oprod.net</a> has a new design. I've used <a href="http://joomla.org/">Joomla</a> for the new website. It's a great CMS, easy to use and powerful.

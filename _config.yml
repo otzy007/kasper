@@ -13,5 +13,6 @@ google_analytics: 'UA-2141963-1'
 # Details for the RSS feed generator
 url:            'http://oprod.net'
 author:         'Andrei G'
+bio: 😱
 
 permalink: /:categories/:title/

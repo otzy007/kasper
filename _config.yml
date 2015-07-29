@@ -16,3 +16,6 @@ author:         'Andrei G'
 bio: 😱
 
 permalink: /:title/
+
+gems:
+  - jekyll-sitemap

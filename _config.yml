@@ -15,4 +15,4 @@ url:            'http://oprod.net'
 author:         'Andrei G'
 bio: 😱
 
-permalink: /:categories/:title/
+permalink: /:title/

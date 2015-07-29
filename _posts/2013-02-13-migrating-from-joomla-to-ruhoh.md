@@ -3,6 +3,7 @@ layout: post
 title: Migrating from Joomla to ruhoh
 date: '2013-02-13'
 description:
+categories: blog
 ---
 
 It's about time to migrate the site from the old Joomla 1.5 CMS to a new one.

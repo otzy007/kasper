@@ -20,3 +20,4 @@ permalink: /:title/
 gems:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-paginate

@@ -127,6 +127,7 @@ DEPENDENCIES
   github-pages
   jekyll-paginate
   jekyll-sitemap
+  kramdown
   rouge
 
 BUNDLED WITH

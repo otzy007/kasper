@@ -2,7 +2,7 @@ name: oprod.net
 description: Blogging about my projects, Ruby on Rails and RubyMotion
 meta_description: "oprod.net, Blogging about my projects, Ruby on Rails and RubyMotion"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
